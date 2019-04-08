@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "sassc", ">= 2.0"
   spec.add_dependency "tilt"
 
-  spec.add_dependency 'railties', '>= 4.0.0'
+  spec.add_dependency 'railties', '>= 3.0.0'
   spec.add_dependency 'sprockets', '> 3.0'
   spec.add_dependency 'sprockets-rails'
 end
